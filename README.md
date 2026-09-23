@@ -1,1 +1,1 @@
-maze1
+[Maze](index.html)
