@@ -1,1 +1,1 @@
-[Maze](index.html)
+[Maze](./maze/)
