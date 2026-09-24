@@ -1,3 +1,3 @@
 Welcome to the maze.
-[Enter](room1.html)
+[Enter](./room1.html)
 
