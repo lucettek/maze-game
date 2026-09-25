@@ -1,2 +1,2 @@
 This is room 7.
-[West](room8.html)
+[West](./room8.html)
